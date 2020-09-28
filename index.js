@@ -1,4 +1,5 @@
 console.log('Hello world');
+console.log('Origal');
 
 //การใช้งาน setTimeout, setInterval, clearTimeout, clearInterval
 /*
